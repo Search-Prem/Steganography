@@ -63,6 +63,16 @@ This project focuses on securely hiding sensitive data within images using **ste
 
 ---
 
+### Future Scope
+- **Cloud Integration** – Develop a cloud-based steganography tool for remote secure data hiding.
+- **Blockchain for Security** – Utilize blockchain technology to enhance data integrity and prevent tampering.
+- **Real-time Applications** – Extend the project for real-time secure messaging and live streaming.
+- **Cross-Platform Compatibility** – Develop mobile and web-based versions for broader accessibility.
+- **Multi-Layered Encryption** – Integrate multiple encryption algorithms for higher security levels.
+
+---
+
 ### Conclusion
 This project provides an **efficient and secure** method for hiding data within images, ensuring **privacy and protection**. It can be used by **cybersecurity professionals, government agencies, journalists, and privacy-conscious users** to protect sensitive information.
+
 
